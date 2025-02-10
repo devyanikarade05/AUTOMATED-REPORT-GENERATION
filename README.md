@@ -44,7 +44,7 @@ This project takes structured data from a CSV file and converts it into a profes
 
 This project showcases the automation of data processing and document generation, making it useful for creating reports in various domains such as education, research, and business analytics. 🚀
 
-## OUTPUT OF Automated Data Report Generation:
+## OUTPUT of Automated Data Report Generation:
 ![Image](https://github.com/user-attachments/assets/c9341dca-9295-4b57-bbbd-616573efaf5a)
 
 

@@ -1,7 +1,7 @@
 # AUTOMATED-REPORT-GENERATION
 
 - **Company:** CODTECH IT SOLUTIONS  
-- **Intern Name:** Devyani Karade  
+- **Name:** Devyani Karade  
 - **Intern ID:** CT08LTW  
 - **Domain:** Python  
 - **Batch Duration:** February 5th, 2025 - March 5th, 2025  
